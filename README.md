@@ -3,4 +3,4 @@ Contains the OST for the [Fading-Revelations] mod for the game Mindustry. Overri
 
 
 <!----------------------------------------------------------------------------->
-[Fading-Revelations]: https://github.com/Fresh791/Fading-Revelation
+[Fading-Revelations]: [https://github.com/Fresh791/Fading-Revelation](https://github.com/Fresh791/Fading-Revelations)
